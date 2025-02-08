@@ -13,7 +13,7 @@ This project is a **React Redux** application that includes authentication and a
 
 ## 🖼️ Screenshots
 ### Login Page
-![Login Page](.)
+![Login Page](<img width="1680" alt="Image" src="https://github.com/user-attachments/assets/9082d127-b4c3-4e60-9469-4dda9313d689" />)
 ### Sign-Up Page
 ![Sign-Up Page](./screenshots/signup.png)
 ### To-Do & Counter Page
