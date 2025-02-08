@@ -18,7 +18,7 @@ This project is a **React Redux** application that includes authentication and a
 <img width="1680" alt="Image" src="https://github.com/user-attachments/assets/73dd2d9c-4eb7-43fd-9bee-2ea7af446273" />
 ### To-Do & Counter Page
 <img width="1680" alt="Image" src="https://github.com/user-attachments/assets/ee47ee10-372c-4c21-ba5f-a7d63e67a771" />
-
+<img width="1680" alt="Image" src="https://github.com/user-attachments/assets/9ea91543-ed0d-4666-b97b-17252563732b" />
 ## 🛠️ Tech Stack
 - ⚛️ **React.js**
 - 🏪 **Redux Toolkit**
